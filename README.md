@@ -1,6 +1,6 @@
 # PCA-EXP-2-Matrix-Summation-using-2D-Grids-and-2D-Blocks-AY-23-24
 
-<h3>AIM: To implement and optimize the addition of large integer matrices using GPU acceleration, utilizing a 2D grid and 2D blocks configuration. </h3>
+<h3>AIM: To implement and optimize the addition of large integer matrices using GPU acceleration, utilizing a 2D grid and 2D blocks configuration.</h3>
 <h3>Name : TRISHA PRIYADARSHNI PARIDA/h3>
 <h3>REGISTER NO: 212224230293</h3>
 <h3>EX. NO: 2</h3>
